@@ -1,4 +1,4 @@
-package com.java.pattern;
+package com.java.pattern.builder;
 
 public class Araba {
     private Integer id;

@@ -1,4 +1,4 @@
-package com.java.pattern;
+package com.java.pattern.builder;
 
 //https://www.journaldev.com/1425/builder-design-pattern-in-java
 public class Test3 {
